@@ -4,4 +4,3 @@
 1. Fork
 2. Multi-Threading Programming
 3. Process Scheduling
-### Course content
